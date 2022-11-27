@@ -4,7 +4,7 @@ O projeto foi criado em [Angular CLI](https://github.com/angular/angular-cli) ve
 
 ## Configuração antes de Excutar
 
-No arquivo proxy.config.json alterar na variavel "target": o local host: "https://localhost:44334" para o local da sua maquina.
+No arquivo proxy.config.json alterar na variavel "target": o local host: "https://localhost:44334" para o local host da sua maquina.
 
 ## Development server
 
