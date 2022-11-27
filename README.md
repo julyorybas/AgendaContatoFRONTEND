@@ -1,6 +1,10 @@
 # AgendaContato
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
+O projeto foi criado em [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6. 
+
+## Configuração antes de Excutar
+
+No arquivo proxy.config.json alterar na variavel "target": o local host: "https://localhost:44334" para o local da sua maquina.
 
 ## Development server
 
